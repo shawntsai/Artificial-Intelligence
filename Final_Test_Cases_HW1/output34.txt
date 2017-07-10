@@ -1,0 +1,16 @@
+********
+********
+*****X**
+***XX***
+***XX***
+***X****
+********
+********
+Node,Depth,Value,Alpha,Beta
+root,0,-Infinity,-Infinity,Infinity
+e3,1,8,-Infinity,Infinity
+root,0,8,8,Infinity
+f3,1,11,8,Infinity
+root,0,11,11,Infinity
+f4,1,8,11,Infinity
+root,0,11,11,Infinity

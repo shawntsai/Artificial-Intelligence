@@ -1,0 +1,141 @@
+0a1,4
+> 0.29
+> 0.20
+> 0.52
+> 0.01
+\ No newline at end of file
+Testcase 1 is not correct.
+1a2,6
+> 0.02
+> 0.21
+> 0.31
+> 0.94
+> 1.00
+\ No newline at end of file
+Testcase 2 is not correct.
+Testcase 3 passed.
+1a2,3
+> 0.08
+> 0.16
+\ No newline at end of file
+Testcase 4 is not correct.
+1a2,3
+> 0.01
+> 0.20
+\ No newline at end of file
+Testcase 5 is not correct.
+Testcase 6 passed.
+0a1,3
+> 0.42
+> 0.04
+> 0.78
+\ No newline at end of file
+Testcase 7 is not correct.
+1a2,3
+> 0.01
+> 0.06
+\ No newline at end of file
+Testcase 8 is not correct.
+2a3,4
+> 0.04
+> 0.02
+\ No newline at end of file
+Testcase 9 is not correct.
+1a2,3
+> 0.76
+> 0.28
+\ No newline at end of file
+Testcase 10 is not correct.
+1a2,5
+> 0.14
+> 0.09
+> 0.16
+> 0.20
+\ No newline at end of file
+Testcase 11 is not correct.
+Testcase 12 passed.
+1a2,3
+> 0.05
+> 0.52
+\ No newline at end of file
+Testcase 13 is not correct.
+1a2,5
+> 0.35
+> 0.38
+> 0.42
+> 0.20
+\ No newline at end of file
+Testcase 14 is not correct.
+Testcase 15 passed.
+2a3,4
+> 0.02
+> 0.48
+\ No newline at end of file
+Testcase 16 is not correct.
+1a2,4
+> 0.45
+> 0.41
+> 0.34
+\ No newline at end of file
+Testcase 17 is not correct.
+2a3,6
+> 0.03
+> 0.10
+> 0.34
+> 0.25
+\ No newline at end of file
+Testcase 18 is not correct.
+1a2,4
+> 0.10
+> 0.25
+> 0.09
+\ No newline at end of file
+Testcase 19 is not correct.
+3c3
+< 0.69
+---
+> 0.00
+Testcase 20 is not correct.
+Testcase 21 passed.
+Testcase 22 passed.
+Testcase 23 passed.
+Testcase 24 passed.
+Testcase 25 passed.
+Testcase 26 passed.
+Testcase 27 passed.
+Testcase 28 passed.
+Testcase 29 passed.
+Testcase 30 passed.
+Testcase 31 passed.
+Testcase 32 passed.
+Testcase 33 passed.
+Testcase 34 passed.
+Testcase 35 passed.
+Testcase 36 passed.
+Testcase 37 passed.
+Testcase 38 passed.
+Testcase 39 passed.
+Testcase 40 passed.
+Testcase 41 passed.
+Testcase 42 passed.
+1a2
+> 0.04
+\ No newline at end of file
+Testcase 43 is not correct.
+1a2,4
+> 0.10
+> 0.59
+> 0.40
+\ No newline at end of file
+Testcase 44 is not correct.
+0a1,3
+> 0.74
+> 0.06
+> 0.37
+\ No newline at end of file
+Testcase 45 is not correct.
+Testcase 46 passed.
+Testcase 47 passed.
+Testcase 48 passed.
+Testcase 49 passed.
+Testcase 50 passed.
